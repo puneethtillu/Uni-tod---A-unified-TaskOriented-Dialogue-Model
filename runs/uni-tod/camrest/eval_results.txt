@@ -1,0 +1,5 @@
+***** Eval results 786 *****
+loss = 0.5603290082398506
+perplexity = tensor(2.1281)
+entity_f1_score = 76.41  
+
